@@ -1,0 +1,32 @@
+body{
+    width: 95%;
+    max-width: 900px;
+    margin: auto;
+    background: url(bg.jpg) center;
+
+
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5 ;
+    color: #fff;
+}
+main{
+    background: #4828a1ab;
+   *padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 11px;
+
+}
+.btn{
+    font-family: 'Lato', sans-serif;
+    font-size:14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.btn-green{
+    background:rgb(37, 24, 97);
+    color:#fff;
+    
+}
